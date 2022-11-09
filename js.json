@@ -1257,7 +1257,7 @@
                     {
                     "name" : "live",
                     "urls" : [
-                        "proxy://do=live&type=txt&ext=http://111.67.196.181/mtv/zhibo.txt"]
+                        "proxy://do=live&type=txt&ext=https://agit.ai/zqk219/baip/raw/branch/main/live.txt"]
                 }]
         }],
     "rules" : [
